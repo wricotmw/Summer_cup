@@ -9,7 +9,7 @@
 #Add cancel button functionality
 #Add  insert_golfer (new golfer functionality) data entered correctly and enabling and disabling of buttons etc.
 # Change round number check to include entry <1 and >5
-
+#START OF VERSION CONTROL
 
 from tkinter import *
 
